@@ -25,7 +25,7 @@ MONGO_DB_URI = "mongodb+srv://Saib:saib2005@cluster0.qck8hxs.mongodb.net/?retryW
 
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID = "-1002035748224"
+LOGGER_ID = -1002035748224
 
 DISASTER_LOG = -1002035748224
 
@@ -45,7 +45,7 @@ GIT_TOKEN = "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"
 
 SUPPORT_CHANNEL = "https://t.me/eternal_bot_updates"
 
-SUPPORT_CHAT = "https://t.me/sorcerers_680"
+SUPPORT_CHAT = "https://t.me/et_bot_updates"
 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = 9000
