@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore cache and temporary files
+.cache
+log.txt
+.DS_Store
+*.session
+
+# Ignore raw files and downloaded content
+raw_files/
+cache/
+downloads/
+
+# Ignore Python bytecode and session files
+__pycache__/
+*.session-journal

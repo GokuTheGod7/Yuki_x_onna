@@ -1,0 +1,9 @@
+{
+  "name": "Python 3.9 & Node.js 18",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9",
+  "extensions": [
+    "ms-python.python",
+    "ms-vscode.cpptools"
+  ],
+  "postCreateCommand": "pip install -r requirements.txt"
+}
