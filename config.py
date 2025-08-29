@@ -5,33 +5,33 @@ from pyrogram import filters
 load_dotenv()
 
 
-API_ID = 20046177
+API_ID = 24542160
 
-API_HASH = "83d15f2956be4b4b927acded8bdf780f"
+API_HASH = "143ef5efcaf0f2b259dcd0ea2cfaf336"
 
-BOT_TOKEN = "7063450080:AAEiv69nDlkvzmN-oyTmVUCTzoMmAvwSNGE"
+BOT_TOKEN = "8096745814:AAFZ2M7mpkKPMvyIqpUsoF1DbG1S4cJef4I"
 
-BOT_ID = 8151120625
+BOT_ID = 8096745814
 
-BOT_USERNAME = "Zenitsu_music_xbot"
+BOT_USERNAME = "Yuki_xprobot"
 
-OWNER_USERNAME = "Untouchable_Heart2205"
+OWNER_USERNAME = "OG_Goku_God_7"
 
-BOT_NAME = "˹ᴢᴇɴɪᴛsᴜ ꭙ Mᴜsɪᴄ˼"
+BOT_NAME = "• Yυᴋɪ Oɴɴᴀ ✘ Mᴜsɪᴄ ♪"
 
-ASSUSERNAME = "Erika_assistant"
+ASSUSERNAME = "@Onna_Assistant"
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Nezuko12:Nezuko12@cluster0.xchck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = "mongodb+srv://Saib:saib2005@cluster0.qck8hxs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID = int(getenv("LOGGER_ID", -1002116643591))
+LOGGER_ID = "-1002035748224"
 
-DISASTER_LOG = -1001997798206
+DISASTER_LOG = -1002035748224
 
-OWNER_ID = 7121987650
+OWNER_ID = 7793156995
 
-SPECIAL_USER = 6305653111
+SPECIAL_USER = 6266348511
 
 HEROKU_APP_NAME = "vipppp"
 
@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = "master"
 
 GIT_TOKEN = "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"
 
-SUPPORT_CHANNEL = "https://t.me/hxh_bot_support"
+SUPPORT_CHANNEL = "https://t.me/eternal_bot_updates"
 
-SUPPORT_CHAT = "https://t.me/zenitsu_bot_support"
+SUPPORT_CHAT = "https://t.me/sorcerers_680"
 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = 9000
@@ -66,7 +66,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "BQGOTy8ARCCt9RMtVykcvkX3peph1J1NW3g1lsdpXvSRZ93Ip1QfRPS1tHO2tMzgYOgb30gvKHHa3_rqucqc51rKCeDJV6xlxC_j0S4hC1VYi7y2IEIVj5RMuX4yP28gQFMMUJa85pnwhUqGazgI1pG1Twv-00j3U7-YIhpjV9kYh0WeSmlTkoB8GOJs44dESNyqg0lzjWqExgwefkkisQUNyUZBGe5GGfZFMqs2-ExQ_GZ7soYyxZJN1piB0i1TNdxt62OOVbZQqcHiKLI4CAI_-tAnvRQezbos-Zgn5S7mQvDfgMPeeTkJFXKOTWPqv2XUaX1JdV2Ocsq_SQmYebBRTi7bXQAAAAG3J9YQAA")
+STRING1 = "BQF2e9AAE1cz_cTrpCUli3yIrjUpbZH7w1fJk6gfy7_IHll6KdPc-A2PdI7bM0Z1ZGOWp_1WCJBgIafkGX33bLj7b4ejkJ5u3Pn4nhCc2I9h1AQMt5ifQXZrGzDjy4xRESupUq-tafjN8PZmUk7Ui3-VheWUyO_rtb7_qG3gF8E_sQQ1SVJU4l85tv00e0k2_qaUnng1eLzKMw0sLmGf3xbfy6YKut-C69Pf_V1_gfFFfdaua8rXCmDb_SFPw_Wq-7hf_Zex7py54OY8Mqnuos2KFPv9fOigt1W-0Lst5lCI6Dhn8MrYzseBZKbG_FlPeLUhZ0ypox8R-owMrjxVpxMsplRYCQAAAAHTUNvuAA"
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
@@ -83,10 +83,10 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL =  "https://files.catbox.moe/eu11dc.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/sg2uf3.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eu11dc.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/qnq089.jpg"
+START_IMG_URL =  ""https://files.catbox.moe/u8507f.mp4
+PLAYLIST_IMG_URL = "https://graph.org/file/509972c72fde0bcea6909-188ae866613d73009e.jpg"
+STATS_IMG_URL = "https://graph.org/file/b6a83738eef8bc212eb82-c5dcb24326f4eea4db.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/94e6ca90e11e31e5a3ea0-5cac62458aad508530.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/dc6htz.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/eu11dc.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eu11dc.jpg"
