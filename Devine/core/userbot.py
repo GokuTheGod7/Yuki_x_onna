@@ -53,7 +53,7 @@ class Userbot(Client):
                 await self.one.join_chat("As_cosmos")
                 await self.one.join_chat("HXH_NETWORK")
                 assistants.append(1)
-                await self.one.send_message("@zenitsu_xsupport", "<b>𝟷'sᴛ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
+                await self.one.send_message("@et_bot_updates", "<b>𝟷'sᴛ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
                 self.one.id = self.one.me.id
                 self.one.name = self.one.me.mention
                 self.one.username = self.one.me.username
