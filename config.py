@@ -37,7 +37,7 @@ HEROKU_APP_NAME = "vipppp"
 
 HEROKU_API_KEY = "HRKU-3a48d735-445f-49c4-a6cf-fea438f945ef"
 
-UPSTREAM_REPO = "https://github.com/paradox-zenu/test"
+UPSTREAM_REPO = "https://github.com/GokuTheGod7/Yuki_x_onna"
 
 UPSTREAM_BRANCH = "master"
 
