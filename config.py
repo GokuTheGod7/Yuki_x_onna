@@ -21,11 +21,11 @@ BOT_NAME = "• Yυᴋɪ Oɴɴᴀ ✘ Mᴜsɪᴄ ♪"
 
 ASSUSERNAME = "@Onna_Assistant"
 
-MONGO_DB_URI = "mongodb+srv://Saib:saib2005@cluster0.qck8hxs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_DB_URI = getenv("MONGO_DB_URI ","mongodb+srv://Saib:saib2005@cluster0.qck8hxs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID = -1002035748224
+LOGGER_ID = int(getenv("LOGGER_ID ", "-1002035748224")
 
 DISASTER_LOG = -1002035748224
 
