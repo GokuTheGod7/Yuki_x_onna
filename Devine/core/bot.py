@@ -38,7 +38,7 @@ class Devine(Client):
             try:
                 # Use the public channel username instead of chat_id
                 await self.send_message(
-                    chat_id="@zenitsu_xsupport",
+                    chat_id="@et_bot_updates",
                     text=(
                         f"<b>{self.mention} ɪs ᴀʟɪᴠᴇ <a href='https://files.catbox.moe/y4xape.jpg' target='_blank'>💖</a></b>\n\n"
                         f"<b>• ʙᴏᴛ ᴠᴇʀsɪᴏɴ :</b> <code>𝟸.𝟷 ʀx</code>\n"
